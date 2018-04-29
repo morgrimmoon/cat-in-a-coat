@@ -1,0 +1,22 @@
+{
+    "Format": "1.3",
+    "Changes": [
+        // Cat
+        {
+            "Action": "Load",
+            "Target": "Animals/cat",
+            "FromFile": "assets/cat-in-coat.png",
+            "When": {
+                "Weather": "rain, storm",
+                               }
+          } ,
+            {
+                "Action": "Load",
+                "Target": "Animals/cat",
+                "FromFile": "assets/cat-in-coat.png",
+                "When": {
+                    "Season": "winter",
+                                   }
+            }
+    ]
+}

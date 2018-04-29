@@ -1,0 +1,13 @@
+{
+   "Name": "Cat In A Coat",
+   "Author": "Morgrim",
+   "Version": "0.1.2",
+   "Description": "Gives the pet cat a warm coat to wear.",
+   "UniqueID": "Morgrim.CatInACoat",
+   "MinimumApiVersion": "2.0",
+   "UpdateKeys": [],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher", // the ID of required mod
+      "MinimumVersion": "1.0.0" // optional
+   }
+}
