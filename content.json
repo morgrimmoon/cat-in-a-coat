@@ -1,19 +1,21 @@
 {
-    "Format": "1.3",
+    "Format": "1.4",
     "Changes": [
         // Cat
         {
-            "Action": "Load",
+            "Action": "EditImage",
             "Target": "Animals/cat",
-            "FromFile": "assets/cat-in-coat.png",
+            "FromFile": "assets/coat.png",
+            "PatchMode": "Overlay",
             "When": {
                 "Weather": "rain, storm",
                                }
           } ,
             {
-                "Action": "Load",
-                "Target": "Animals/cat",
-                "FromFile": "assets/cat-in-coat.png",
+            "Action": "EditImage",
+            "Target": "Animals/cat",
+            "FromFile": "assets/coat.png",
+            "PatchMode": "Overlay",
                 "When": {
                     "Season": "winter",
                                    }
