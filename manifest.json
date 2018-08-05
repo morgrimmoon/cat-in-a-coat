@@ -1,7 +1,7 @@
 {
    "Name": "Cat In A Coat",
    "Author": "Morgrim",
-   "Version": "0.1.2",
+   "Version": "0.1.3",
    "Description": "Gives the pet cat a warm coat to wear.",
    "UniqueID": "Morgrim.CatInACoat",
    "MinimumApiVersion": "2.0",
